@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://wiki-2rv7ad.radarsatu88.cfd/sitemap.xml
